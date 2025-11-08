@@ -26,3 +26,16 @@ form input, form textarea {
 form button {
   width: 100%;
 }
+
+.card-title {
+  font-weight: bold;
+}
+
+.card-text {
+  font-size: 0.95rem;
+}
+
+.card-img-top {
+  height: 180px;
+  object-fit: cover;
+}
