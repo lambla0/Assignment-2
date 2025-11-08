@@ -39,3 +39,19 @@ form button {
   height: 180px;
   object-fit: cover;
 }
+
+.display-4 {
+  color: #343a40; 
+}
+
+img.rounded-circle {
+  border: 4px solid #007bff; 
+}
+
+.btn-lg {
+  min-width: 140px; 
+}
+
+p.text-muted {
+  font-size: 0.95rem;
+}

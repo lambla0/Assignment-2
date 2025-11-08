@@ -32,3 +32,23 @@
 # - Used Bootstrap classes to center the content
 # - Font Awesome icons are used for email, phone, and button in css
 # - added new route to the routes index.js
+
+# Phase 4
+# projects.ejs
+# - Updated the Projects page to display project cards
+# - Each card includes a project image, title, short description, and a View Project button
+# - The grid adjusts for different screen sizes using Bootstrap
+# - view project buttons are linked to their own ejs as project1 and so on 
+# - created separate pages for each project
+# - theres a back to projects bvutton to navigate back to the projects section
+# - updated route index.js with project1 2 and 3
+# - Added minor CSS to make project images consistent in size and style: rounded corners, shadows, and responsive sizing.
+# - Card titles and descriptions have proper spacing and readable font sizes.
+
+# Phase 5
+# - index.ejs
+# - Updated the homepage structuring things
+# - Added a centered main title “My Portfolio” in bold and larger font.
+# - included my profile pic below the title displayed as a rounded circle with a subtle shadow and border.
+# - Added three large, colored buttons linking to About Me, Projects, and Contact Me pages for easy navigation
+# - added a short paragraph under the buttons to wlecome
