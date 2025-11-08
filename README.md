@@ -15,3 +15,10 @@
 
 
 
+# Phase 2
+# - layout.ejs
+# - Updated the layout to make the site more professional and stylish. Added a black top border to the footer, and made it stay at the bottom of the page using flex-column and min-vh-100. Linked Font Awesome so I can use icons like in buttons. Kept the navbar and footer consistent across all pages. Added a container that centers page content both vertically and horizontally.
+# - about.ejs
+# - added a profile pic, heading, short introduction, and a button linking to the Projects page.
+# - Used Bootstrap classes to center content, style the image rounded, shadow, bordered.
+# - Set font family and improved paragraph spacing. Added shadow effect to profile picture and border styling. Added black border on footer to separate it from page content.
