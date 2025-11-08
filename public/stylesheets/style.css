@@ -18,3 +18,11 @@ footer {
 img.shadow {
   box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
+
+form input, form textarea {
+  border-radius: 5px;
+}
+
+form button {
+  width: 100%;
+}
